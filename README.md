@@ -15,9 +15,9 @@ The application works slightly different on mobile phones as the browsers on the
 The layout of the application is fairly simple. The user progresses in a step-by-step manner filling out the information on each page. Hitting next updates, the application state. Finally, in the end the user is presented with an option to preview their data on the pdf form.
 
 
-The application is hosted at: [https://manik-dev.github.io/pdffed/](https://manik-dev.github.io/pdffed/) 
+Demo: [https://manik-dev.github.io/pdffed/](https://manik-dev.github.io/pdffed/) 
 
-Demo: [https://github.com/manik-dev/pdffed](https://github.com/manik-dev/pdffed)
+Application Source Code: [https://github.com/manik-dev/pdffed](https://github.com/manik-dev/pdffed)
 
 
 ## Future Milestones
