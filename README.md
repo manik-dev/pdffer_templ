@@ -17,7 +17,7 @@ The layout of the application is fairly simple. The user progresses in a step-by
 
 The application is hosted at: [https://manik-dev.github.io/pdffed/](https://manik-dev.github.io/pdffed/) 
 
-The code exists here: [https://github.com/manik-dev/pdffed](https://github.com/manik-dev/pdffed)
+Demo: [https://github.com/manik-dev/pdffed](https://github.com/manik-dev/pdffed)
 
 
 ## Future Milestones
