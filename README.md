@@ -4,7 +4,7 @@ In recent years the browser support for the acrobat pdf plugin is on the downfal
 
 ## Third-party Libraries
 I have made minore changes to following library for the solution to work:
-[https://github.com/phihag/pdfform.js]https://github.com/phihag/pdfform.js
+[https://github.com/phihag/pdfform.js](https://github.com/phihag/pdfform.js)
 
 
 ## ClockWorks
