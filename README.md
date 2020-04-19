@@ -19,7 +19,6 @@ The application is hosted at: [https://manik-dev.github.io/pdffed/](https://mani
 The code exists here: [https://github.com/manik-dev/pdffed](https://github.com/manik-dev/pdffed)
 
 
-
-
-
-
+## Future Milestones
+* Add Support for Signature.
+* Modify the PDFJS library to support javascript validation within pdf form.
