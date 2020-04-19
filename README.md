@@ -4,10 +4,10 @@ In recent years the browser support for the acrobat pdf plugin is on the downfal
 
 ## Third-party Libraries
 I have made minore changes to following library for the solution to work:
-(https://github.com/phihag/pdfform.js)
+[https://github.com/phihag/pdfform.js]https://github.com/phihag/pdfform.js
 
 
 ## ClockWorks
 I have used react with redux to create the single page application. The application is responsive and works on the different screen sizes. The form that user will fill is a Federal W4 form. To demonstrate that solution works, the user can only fill out the first page of pdf form. The application styling is provided using Materil-UI react library. 
 
-The application is hosted at: (https://manik-dev.github.io/pdffed/)
+The application is hosted at: [https://manik-dev.github.io/pdffed/](https://manik-dev.github.io/pdffed/)
